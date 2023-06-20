@@ -1,3 +1,3 @@
-#Photo-zSNthesis: Photometric Redshift Estimator for Type Ia Supernovae
+# Photo-zSNthesis: Photometric Redshift Estimator for Type Ia Supernovae
 
-This repository contains the code for the model described in [Photo-zSNthesis: Converting Type Ia Supernova Lightcurves to Redshift Estimates via Deep Learning][https://arxiv.org/abs/2305.11869].
+Photo-zSNthesis is a convolutional neural network model that predicts full PDFs for type Ia supernovae redshifts from photometry (lightcurves) alone. For more details and results, see [Photo-zSNthesis: Converting Type Ia Supernova Lightcurves to Redshift Estimates via Deep Learning](https://arxiv.org/abs/2305.11869).
